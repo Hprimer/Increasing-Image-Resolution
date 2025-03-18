@@ -11,4 +11,4 @@
 
   - filtered_shifted_rotated_scaled: Изображения после снижения разрешения, смещения, поворота и масштабирования.
 
-*метаданные к изображениям находятся в каждой папке с алгоритмом (filtered_shifted, filtered_shifted_rotated, filtered_shifted_rotated_scaled) в файле meta_info.json*
+**метаданные к изображениям находятся в каждой папке с алгоритмом (filtered_shifted, filtered_shifted_rotated, filtered_shifted_rotated_scaled) в файле meta_info.json**
