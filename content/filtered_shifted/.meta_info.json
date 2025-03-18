@@ -1,0 +1,234 @@
+{
+    "AISLING T.png": {
+        "original_size": [
+            591,
+            474
+        ],
+        "versions": [
+            {
+                "file": "AISLING T_v0.png",
+                "shift_x": -1.3703509138770045,
+                "shift_y": -1.8469402960072943
+            },
+            {
+                "file": "AISLING T_v1.png",
+                "shift_x": 0.8929350504915066,
+                "shift_y": -4.197224346198295
+            },
+            {
+                "file": "AISLING T_v2.png",
+                "shift_x": 2.6820990267916054,
+                "shift_y": 1.9815601157120106
+            },
+            {
+                "file": "AISLING T_v3.png",
+                "shift_x": -3.978201308473399,
+                "shift_y": -3.054909632602203
+            },
+            {
+                "file": "AISLING T_v4.png",
+                "shift_x": -0.3139116160650346,
+                "shift_y": 1.4791354295451375
+            },
+            {
+                "file": "AISLING T_v5.png",
+                "shift_x": 2.7356813361945296,
+                "shift_y": 4.458454864174383
+            },
+            {
+                "file": "AISLING T_v6.png",
+                "shift_x": -3.1103154840508807,
+                "shift_y": -4.809382622848522
+            },
+            {
+                "file": "AISLING T_v7.png",
+                "shift_x": 1.7683071239105983,
+                "shift_y": -0.5240242880995716
+            },
+            {
+                "file": "AISLING T_v8.png",
+                "shift_x": 1.8810371247612254,
+                "shift_y": 0.8753703015913015
+            },
+            {
+                "file": "AISLING T_v9.png",
+                "shift_x": 0.22324879616786752,
+                "shift_y": -2.4725932216516835
+            }
+        ]
+    },
+    "Lake.png": {
+        "original_size": [
+            736,
+            736
+        ],
+        "versions": [
+            {
+                "file": "Lake_v0.png",
+                "shift_x": 2.6477715049063892,
+                "shift_y": -3.2089321748598607
+            },
+            {
+                "file": "Lake_v1.png",
+                "shift_x": -4.29417604527691,
+                "shift_y": -3.9843357773667307
+            },
+            {
+                "file": "Lake_v2.png",
+                "shift_x": 3.7720143855438852,
+                "shift_y": -1.6192634513583548
+            },
+            {
+                "file": "Lake_v3.png",
+                "shift_x": -2.2166965251123405,
+                "shift_y": -2.140248401081164
+            },
+            {
+                "file": "Lake_v4.png",
+                "shift_x": -3.0445478835789452,
+                "shift_y": -4.7948153444877395
+            },
+            {
+                "file": "Lake_v5.png",
+                "shift_x": 4.794347069994018,
+                "shift_y": 3.79836384589243
+            },
+            {
+                "file": "Lake_v6.png",
+                "shift_x": 2.1258014249955135,
+                "shift_y": -3.4579317991460554
+            },
+            {
+                "file": "Lake_v7.png",
+                "shift_x": 4.979509915852956,
+                "shift_y": 1.1632428930256742
+            },
+            {
+                "file": "Lake_v8.png",
+                "shift_x": -1.7291046063986082,
+                "shift_y": -3.059841492653803
+            },
+            {
+                "file": "Lake_v9.png",
+                "shift_x": 1.982340234094372,
+                "shift_y": -2.110546878214582
+            }
+        ]
+    },
+    "palatka.png": {
+        "original_size": [
+            981,
+            736
+        ],
+        "versions": [
+            {
+                "file": "palatka_v0.png",
+                "shift_x": -2.48119919797365,
+                "shift_y": -1.912793039992502
+            },
+            {
+                "file": "palatka_v1.png",
+                "shift_x": -4.178481614470119,
+                "shift_y": 0.4824660164309318
+            },
+            {
+                "file": "palatka_v2.png",
+                "shift_x": -2.449254485925935,
+                "shift_y": -2.3632942030674386
+            },
+            {
+                "file": "palatka_v3.png",
+                "shift_x": -1.901188850522603,
+                "shift_y": -4.152106405893728
+            },
+            {
+                "file": "palatka_v4.png",
+                "shift_x": -1.6092391629399483,
+                "shift_y": 2.1235479190627
+            },
+            {
+                "file": "palatka_v5.png",
+                "shift_x": 0.37842460597259375,
+                "shift_y": -3.689368010834504
+            },
+            {
+                "file": "palatka_v6.png",
+                "shift_x": -1.68809558418031,
+                "shift_y": -1.69923846390183
+            },
+            {
+                "file": "palatka_v7.png",
+                "shift_x": -3.103771857185383,
+                "shift_y": 2.8414888291074174
+            },
+            {
+                "file": "palatka_v8.png",
+                "shift_x": -1.996947916167573,
+                "shift_y": 3.209447519543833
+            },
+            {
+                "file": "palatka_v9.png",
+                "shift_x": 4.4275903969333505,
+                "shift_y": 1.451738911659243
+            }
+        ]
+    },
+    "PolarBear.png": {
+        "original_size": [
+            497,
+            634
+        ],
+        "versions": [
+            {
+                "file": "PolarBear_v0.png",
+                "shift_x": -3.750160909291215,
+                "shift_y": 0.30219595911012664
+            },
+            {
+                "file": "PolarBear_v1.png",
+                "shift_x": -2.391661878999499,
+                "shift_y": 0.7949942365210658
+            },
+            {
+                "file": "PolarBear_v2.png",
+                "shift_x": 3.332744228457667,
+                "shift_y": -1.2265499448001194
+            },
+            {
+                "file": "PolarBear_v3.png",
+                "shift_x": 3.4307894227624214,
+                "shift_y": -3.2429109639176987
+            },
+            {
+                "file": "PolarBear_v4.png",
+                "shift_x": 3.18311353841907,
+                "shift_y": 0.4853919158759421
+            },
+            {
+                "file": "PolarBear_v5.png",
+                "shift_x": 1.093400637425896,
+                "shift_y": 0.9790010207165878
+            },
+            {
+                "file": "PolarBear_v6.png",
+                "shift_x": 3.810706643434683,
+                "shift_y": -0.6199017913074627
+            },
+            {
+                "file": "PolarBear_v7.png",
+                "shift_x": -2.331766464549083,
+                "shift_y": -1.151113483725955
+            },
+            {
+                "file": "PolarBear_v8.png",
+                "shift_x": 1.6379562154257599,
+                "shift_y": -2.122434063603941
+            },
+            {
+                "file": "PolarBear_v9.png",
+                "shift_x": 3.3043171258877653,
+                "shift_y": 1.5408271738003183
+            }
+        ]
+    }
+}
