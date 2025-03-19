@@ -11,6 +11,4 @@
 
   - [filtered_shifted_rotated_scaled](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_rotated_scaled): Изображения после снижения разрешения, смещения, поворота и масштабирования.
 
-<a href="https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content" style="text-decoration: none;">Текст ссылки</a>
-
 **метаданные к изображениям находятся в каждой папке с алгоритмом (filtered_shifted, filtered_shifted_rotated, filtered_shifted_rotated_scaled) в файле meta_info.json**
