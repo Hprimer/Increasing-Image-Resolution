@@ -5,10 +5,10 @@
 
   - [DIV2K](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/DIV2K): Исходные изображения.
 
-  - [filtered_shifted](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted): Изображения после снижения разрешения и смещения.
+  - [filtered_shifted](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted): Изображения после усредняющего размытия, смещения и уменьшения разрешения в 5 раз.
 
-  - [filtered_shifted_rotated](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_rotated): Изображения после снижения разрешения, смещения и поворота.
+  - [filtered_shifted_rotated](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_rotated): Изображения после усредняющего размытия, смещения, поворота и уменьшения разрешения в 5 раз.
 
-  - [filtered_shifted_rotated_scaled](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_rotated_scaled): Изображения после снижения разрешения, смещения, поворота и масштабирования.
+  - [filtered_shifted_rotated_scaled](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_rotated_scaled): Изображения после усредняющего размытия, смещения, поворота, случайного уменьшения и восстановления масштаба, а затем окончательного уменьшения разрешения в 5 раз.
 
 **метаданные к изображениям находятся в каждой папке с алгоритмом (filtered_shifted, filtered_shifted_rotated, filtered_shifted_rotated_scaled) в файле meta_info.json**
