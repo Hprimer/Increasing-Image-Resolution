@@ -6,54 +6,214 @@
         ],
         "versions": [
             {
-                "file": "AISLING T_v0.png",
-                "shift_x": -3.3536147281908466,
-                "shift_y": 1.0296856795992007
+                "file": "K2/AISLING T_K2_v0.png",
+                "shift_x": -0.9107993922084721,
+                "shift_y": -0.025456957885634957,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "AISLING T_v1.png",
-                "shift_x": 2.435693359162916,
-                "shift_y": 2.9320549289113043
+                "file": "K2/AISLING T_K2_v1.png",
+                "shift_x": -0.7715806692885436,
+                "shift_y": 0.4432777190850663,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "AISLING T_v2.png",
-                "shift_x": 4.928336590574144,
-                "shift_y": -4.070090421780758
+                "file": "K2/AISLING T_K2_v2.png",
+                "shift_x": 0.8206280131117833,
+                "shift_y": 0.7861888390053173,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "AISLING T_v3.png",
-                "shift_x": -4.466647755903068,
-                "shift_y": -2.797422630235361
+                "file": "K2/AISLING T_K2_v3.png",
+                "shift_x": -0.44424237634136654,
+                "shift_y": 0.08697981842271152,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "AISLING T_v4.png",
-                "shift_x": -0.01668156730008885,
-                "shift_y": 3.0600860261268465
+                "file": "K2/AISLING T_K2_v4.png",
+                "shift_x": -0.3576715166919311,
+                "shift_y": -0.5396229199954277,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "AISLING T_v5.png",
-                "shift_x": 2.6867272938288504,
-                "shift_y": -4.62776346711867
+                "file": "K2/AISLING T_K2_v5.png",
+                "shift_x": 0.1456036278644468,
+                "shift_y": -0.9067830124391547,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "AISLING T_v6.png",
-                "shift_x": -4.130047679596236,
-                "shift_y": -3.164114045358264
+                "file": "K2/AISLING T_K2_v6.png",
+                "shift_x": -0.6774696813400247,
+                "shift_y": -0.014213144737776462,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "AISLING T_v7.png",
-                "shift_x": -0.9382210357473619,
-                "shift_y": 0.13408626110955257
+                "file": "K2/AISLING T_K2_v7.png",
+                "shift_x": 0.6541857844402637,
+                "shift_y": -0.5004352987822696,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "AISLING T_v8.png",
-                "shift_x": -3.0623528302536096,
-                "shift_y": -1.8366595331560918
+                "file": "K2/AISLING T_K2_v8.png",
+                "shift_x": -0.12823823250485233,
+                "shift_y": 0.511456989998976,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "AISLING T_v9.png",
-                "shift_x": -3.9516552306706574,
-                "shift_y": -0.9437853206816644
+                "file": "K2/AISLING T_K2_v9.png",
+                "shift_x": 0.6711114831195324,
+                "shift_y": 0.03696473161158287,
+                "angle": 0,
+                "scale": 2
+            },
+            {
+                "file": "K4/AISLING T_K4_v0.png",
+                "shift_x": -2.0004452642335044,
+                "shift_y": -2.8835341976842397,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/AISLING T_K4_v1.png",
+                "shift_x": 0.842924011449079,
+                "shift_y": 1.9635311239361677,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/AISLING T_K4_v2.png",
+                "shift_x": -1.9002267917548352,
+                "shift_y": 2.454366025707916,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/AISLING T_K4_v3.png",
+                "shift_x": 0.47290793660067854,
+                "shift_y": -1.6616798197865126,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/AISLING T_K4_v4.png",
+                "shift_x": -0.5549588231011575,
+                "shift_y": 2.7688500563284606,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/AISLING T_K4_v5.png",
+                "shift_x": -1.1751733549831542,
+                "shift_y": 2.7819605075411866,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/AISLING T_K4_v6.png",
+                "shift_x": -1.7572278637110261,
+                "shift_y": -1.5614144007221493,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/AISLING T_K4_v7.png",
+                "shift_x": 2.051047408159813,
+                "shift_y": -1.4979546246974629,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/AISLING T_K4_v8.png",
+                "shift_x": -0.9792142085162956,
+                "shift_y": -1.5130025149701907,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/AISLING T_K4_v9.png",
+                "shift_x": 0.19520997348221725,
+                "shift_y": -1.5217735359509488,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K8/AISLING T_K8_v0.png",
+                "shift_x": -2.6431664729870397,
+                "shift_y": 6.107326897271868,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/AISLING T_K8_v1.png",
+                "shift_x": -4.281585388897657,
+                "shift_y": 2.0536187031416766,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/AISLING T_K8_v2.png",
+                "shift_x": 6.7971859461739115,
+                "shift_y": -0.7689812008932764,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/AISLING T_K8_v3.png",
+                "shift_x": 2.1604568951969423,
+                "shift_y": -0.48163158372284975,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/AISLING T_K8_v4.png",
+                "shift_x": -0.6171587568868446,
+                "shift_y": -6.903124362893193,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/AISLING T_K8_v5.png",
+                "shift_x": 2.6693714583467845,
+                "shift_y": -2.80464867597828,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/AISLING T_K8_v6.png",
+                "shift_x": -2.5044771383413833,
+                "shift_y": -3.1128607180571963,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/AISLING T_K8_v7.png",
+                "shift_x": 4.510533843390107,
+                "shift_y": 4.9332812514866315,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/AISLING T_K8_v8.png",
+                "shift_x": 0.04961012630524131,
+                "shift_y": -6.702961154921264,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/AISLING T_K8_v9.png",
+                "shift_x": 3.7123511525788224,
+                "shift_y": 3.684386292347087,
+                "angle": 0,
+                "scale": 8
             }
         ]
     },
@@ -64,54 +224,214 @@
         ],
         "versions": [
             {
-                "file": "Lake_v0.png",
-                "shift_x": 3.5846969692718673,
-                "shift_y": 3.446698895504932
+                "file": "K2/Lake_K2_v0.png",
+                "shift_x": 0.8710934543395481,
+                "shift_y": 0.6086945324276911,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "Lake_v1.png",
-                "shift_x": 4.5463268239948125,
-                "shift_y": -4.39104776016565
+                "file": "K2/Lake_K2_v1.png",
+                "shift_x": 0.8308135017989375,
+                "shift_y": -0.9051988004692706,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "Lake_v2.png",
-                "shift_x": 1.2216028881283547,
-                "shift_y": -4.68509027906553
+                "file": "K2/Lake_K2_v2.png",
+                "shift_x": 0.26213639154676427,
+                "shift_y": 0.2494690220965945,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "Lake_v3.png",
-                "shift_x": 3.409593713093738,
-                "shift_y": -3.8542718244706187
+                "file": "K2/Lake_K2_v3.png",
+                "shift_x": -0.18172917818849532,
+                "shift_y": -0.7036878716638177,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "Lake_v4.png",
-                "shift_x": 4.33404687044796,
-                "shift_y": 3.1207644122158698
+                "file": "K2/Lake_K2_v4.png",
+                "shift_x": -0.765384801892705,
+                "shift_y": -0.9616645615229975,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "Lake_v5.png",
-                "shift_x": -3.736812055865908,
-                "shift_y": 1.8980286226878338
+                "file": "K2/Lake_K2_v5.png",
+                "shift_x": 0.19555876442923115,
+                "shift_y": 0.007931974799462838,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "Lake_v6.png",
-                "shift_x": -4.1030235689494585,
-                "shift_y": 1.1995229318496312
+                "file": "K2/Lake_K2_v6.png",
+                "shift_x": 0.60635366118865,
+                "shift_y": -0.9158981733430491,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "Lake_v7.png",
-                "shift_x": 3.490321574868215,
-                "shift_y": -0.3735665508361974
+                "file": "K2/Lake_K2_v7.png",
+                "shift_x": -0.2636927516567291,
+                "shift_y": -0.49298426408629226,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "Lake_v8.png",
-                "shift_x": 4.51570243732335,
-                "shift_y": 2.365446382455155
+                "file": "K2/Lake_K2_v8.png",
+                "shift_x": -0.2206851001452228,
+                "shift_y": -0.7623908390606893,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "Lake_v9.png",
-                "shift_x": 4.146966438476824,
-                "shift_y": -2.667679311182747
+                "file": "K2/Lake_K2_v9.png",
+                "shift_x": 0.3829343832769041,
+                "shift_y": 0.017428646149884264,
+                "angle": 0,
+                "scale": 2
+            },
+            {
+                "file": "K4/Lake_K4_v0.png",
+                "shift_x": 0.6865791304791884,
+                "shift_y": -0.6282377842463012,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/Lake_K4_v1.png",
+                "shift_x": 2.156765012824641,
+                "shift_y": 1.4113708408226895,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/Lake_K4_v2.png",
+                "shift_x": 0.12412515936992019,
+                "shift_y": 1.9040810816289646,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/Lake_K4_v3.png",
+                "shift_x": 0.7341465636220761,
+                "shift_y": -0.26917406272296596,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/Lake_K4_v4.png",
+                "shift_x": 1.5502162070415855,
+                "shift_y": -2.9346597212007026,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/Lake_K4_v5.png",
+                "shift_x": -0.7081971531823239,
+                "shift_y": 0.2745308127034223,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/Lake_K4_v6.png",
+                "shift_x": -0.9073981823045965,
+                "shift_y": -0.16906809292261826,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/Lake_K4_v7.png",
+                "shift_x": -0.07082514789116168,
+                "shift_y": 0.20264039827461477,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/Lake_K4_v8.png",
+                "shift_x": -0.31331241370760043,
+                "shift_y": -2.81610231230051,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/Lake_K4_v9.png",
+                "shift_x": 0.8916818133104707,
+                "shift_y": 1.4011074547525677,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K8/Lake_K8_v0.png",
+                "shift_x": -6.929006704251117,
+                "shift_y": -6.703361779321516,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/Lake_K8_v1.png",
+                "shift_x": -1.1349988980460646,
+                "shift_y": 6.907064409581542,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/Lake_K8_v2.png",
+                "shift_x": -6.407959925476654,
+                "shift_y": -2.009850564049014,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/Lake_K8_v3.png",
+                "shift_x": -1.5772754630103973,
+                "shift_y": 3.178330660079787,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/Lake_K8_v4.png",
+                "shift_x": 6.924807099645102,
+                "shift_y": 3.2089936088816877,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/Lake_K8_v5.png",
+                "shift_x": 5.8482150217525035,
+                "shift_y": -6.442250766042191,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/Lake_K8_v6.png",
+                "shift_x": 4.911783371948202,
+                "shift_y": 0.0449545435546268,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/Lake_K8_v7.png",
+                "shift_x": 6.799631148223613,
+                "shift_y": 3.7508185448096025,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/Lake_K8_v8.png",
+                "shift_x": -3.7162064512412747,
+                "shift_y": -2.093488916209118,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/Lake_K8_v9.png",
+                "shift_x": 5.629211981575859,
+                "shift_y": 4.117606021307889,
+                "angle": 0,
+                "scale": 8
             }
         ]
     },
@@ -122,54 +442,214 @@
         ],
         "versions": [
             {
-                "file": "palatka_v0.png",
-                "shift_x": 0.21826847464755073,
-                "shift_y": -3.4599793515278456
+                "file": "K2/palatka_K2_v0.png",
+                "shift_x": -0.3784897931252005,
+                "shift_y": 0.9525332720699882,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "palatka_v1.png",
-                "shift_x": -3.4445804577695096,
-                "shift_y": -4.230916953692391
+                "file": "K2/palatka_K2_v1.png",
+                "shift_x": -0.8848825980853932,
+                "shift_y": 0.9187721023610962,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "palatka_v2.png",
-                "shift_x": -4.657817206326255,
-                "shift_y": 4.663641727060785
+                "file": "K2/palatka_K2_v2.png",
+                "shift_x": 0.997030819399765,
+                "shift_y": -0.8959451976655686,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "palatka_v3.png",
-                "shift_x": -4.13289559087599,
-                "shift_y": -0.22888422937877806
+                "file": "K2/palatka_K2_v3.png",
+                "shift_x": -0.281812694250579,
+                "shift_y": 0.8155245999036058,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "palatka_v4.png",
-                "shift_x": 0.088706272495374,
-                "shift_y": -1.2874446517825842
+                "file": "K2/palatka_K2_v4.png",
+                "shift_x": 0.9510421538309639,
+                "shift_y": 0.8714182016888119,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "palatka_v5.png",
-                "shift_x": 2.7054181713923064,
-                "shift_y": 0.9889445739323035
+                "file": "K2/palatka_K2_v5.png",
+                "shift_x": -0.1187449185379541,
+                "shift_y": 0.907386198056495,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "palatka_v6.png",
-                "shift_x": 1.0150440333999997,
-                "shift_y": -1.0004065367438408
+                "file": "K2/palatka_K2_v6.png",
+                "shift_x": 0.42059172650869137,
+                "shift_y": -0.838316002260068,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "palatka_v7.png",
-                "shift_x": 3.8109886595485882,
-                "shift_y": -3.7620092588752985
+                "file": "K2/palatka_K2_v7.png",
+                "shift_x": -0.29850807708197746,
+                "shift_y": -0.9012272289246186,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "palatka_v8.png",
-                "shift_x": 4.558523893068742,
-                "shift_y": 0.7860611756363252
+                "file": "K2/palatka_K2_v8.png",
+                "shift_x": -0.6270257306632536,
+                "shift_y": -0.4526588304835437,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "palatka_v9.png",
-                "shift_x": 1.948858195599752,
-                "shift_y": -3.751832702944239
+                "file": "K2/palatka_K2_v9.png",
+                "shift_x": 0.6572277204002677,
+                "shift_y": -0.35032469224831386,
+                "angle": 0,
+                "scale": 2
+            },
+            {
+                "file": "K4/palatka_K4_v0.png",
+                "shift_x": 1.1676933241746372,
+                "shift_y": -1.7827489018159195,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/palatka_K4_v1.png",
+                "shift_x": -0.9581897176463592,
+                "shift_y": 0.23264637798375798,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/palatka_K4_v2.png",
+                "shift_x": 1.3360178177212392,
+                "shift_y": 0.7495460786884314,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/palatka_K4_v3.png",
+                "shift_x": -0.8855905615228963,
+                "shift_y": -2.271292688266477,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/palatka_K4_v4.png",
+                "shift_x": -2.7571371146814734,
+                "shift_y": 1.5023931279977347,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/palatka_K4_v5.png",
+                "shift_x": 0.5669317895107602,
+                "shift_y": 0.20237250659895434,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/palatka_K4_v6.png",
+                "shift_x": -2.417302648792944,
+                "shift_y": 2.8001262623776135,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/palatka_K4_v7.png",
+                "shift_x": -1.3896327590995052,
+                "shift_y": 2.600350427383175,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/palatka_K4_v8.png",
+                "shift_x": -0.4139827378338232,
+                "shift_y": -0.4254826176159421,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/palatka_K4_v9.png",
+                "shift_x": 0.608487849420781,
+                "shift_y": -2.2638089826571575,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K8/palatka_K8_v0.png",
+                "shift_x": -3.390348299586407,
+                "shift_y": 3.6596238777222005,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/palatka_K8_v1.png",
+                "shift_x": -4.517486923855779,
+                "shift_y": 6.275708069198448,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/palatka_K8_v2.png",
+                "shift_x": 6.266982896952857,
+                "shift_y": 1.6641707694555947,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/palatka_K8_v3.png",
+                "shift_x": 2.2296155562300406,
+                "shift_y": 3.7603503911806957,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/palatka_K8_v4.png",
+                "shift_x": -3.0478023629774906,
+                "shift_y": 1.6283470051695232,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/palatka_K8_v5.png",
+                "shift_x": -1.1531175457966558,
+                "shift_y": -3.8135225301249345,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/palatka_K8_v6.png",
+                "shift_x": -0.6605691250355648,
+                "shift_y": 3.2188193441017106,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/palatka_K8_v7.png",
+                "shift_x": -3.1088673017254025,
+                "shift_y": 3.6983606365667647,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/palatka_K8_v8.png",
+                "shift_x": 5.432111010752646,
+                "shift_y": 0.6808515409476978,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/palatka_K8_v9.png",
+                "shift_x": 2.145428005695205,
+                "shift_y": 0.4675266395376525,
+                "angle": 0,
+                "scale": 8
             }
         ]
     },
@@ -180,54 +660,214 @@
         ],
         "versions": [
             {
-                "file": "PolarBear_v0.png",
-                "shift_x": 2.802228103462456,
-                "shift_y": 1.368150786031702
+                "file": "K2/PolarBear_K2_v0.png",
+                "shift_x": 0.09569844378827441,
+                "shift_y": 0.1531698647122801,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "PolarBear_v1.png",
-                "shift_x": 1.5791862304608983,
-                "shift_y": 3.5434027233709067
+                "file": "K2/PolarBear_K2_v1.png",
+                "shift_x": -0.46730019061795613,
+                "shift_y": -0.05771197731228295,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "PolarBear_v2.png",
-                "shift_x": 2.021552146416009,
-                "shift_y": 1.0274077081054136
+                "file": "K2/PolarBear_K2_v2.png",
+                "shift_x": 0.28663525589529915,
+                "shift_y": 0.3964156423299634,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "PolarBear_v3.png",
-                "shift_x": -0.5382933617898971,
-                "shift_y": -1.8267079662403374
+                "file": "K2/PolarBear_K2_v3.png",
+                "shift_x": 0.8221605601655348,
+                "shift_y": -0.1448902089393065,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "PolarBear_v4.png",
-                "shift_x": -3.2175157332183293,
-                "shift_y": -0.17530425116433968
+                "file": "K2/PolarBear_K2_v4.png",
+                "shift_x": -0.2047577544822281,
+                "shift_y": -0.40162845152459004,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "PolarBear_v5.png",
-                "shift_x": 1.4934000474638474,
-                "shift_y": 3.717343884898863
+                "file": "K2/PolarBear_K2_v5.png",
+                "shift_x": 0.018366587982991067,
+                "shift_y": -0.12631105242879093,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "PolarBear_v6.png",
-                "shift_x": 1.1652445825042612,
-                "shift_y": -4.661040646863707
+                "file": "K2/PolarBear_K2_v6.png",
+                "shift_x": -0.14097049449113674,
+                "shift_y": -0.09080636293915001,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "PolarBear_v7.png",
-                "shift_x": -3.589595476354477,
-                "shift_y": 2.9720055162007677
+                "file": "K2/PolarBear_K2_v7.png",
+                "shift_x": -0.2079356303104749,
+                "shift_y": 0.35273441483296764,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "PolarBear_v8.png",
-                "shift_x": 1.5129089261094943,
-                "shift_y": 2.5394861494972805
+                "file": "K2/PolarBear_K2_v8.png",
+                "shift_x": 0.6908554798027768,
+                "shift_y": -0.38055127132834654,
+                "angle": 0,
+                "scale": 2
             },
             {
-                "file": "PolarBear_v9.png",
-                "shift_x": -3.048277182873621,
-                "shift_y": 3.7334782161265583
+                "file": "K2/PolarBear_K2_v9.png",
+                "shift_x": 0.8854573484106412,
+                "shift_y": -0.7491559203059,
+                "angle": 0,
+                "scale": 2
+            },
+            {
+                "file": "K4/PolarBear_K4_v0.png",
+                "shift_x": 1.3363658929733848,
+                "shift_y": 2.584709246360619,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/PolarBear_K4_v1.png",
+                "shift_x": 0.8712960510463139,
+                "shift_y": 0.08211932252064846,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/PolarBear_K4_v2.png",
+                "shift_x": -1.2334880498657252,
+                "shift_y": -0.07542962284740895,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/PolarBear_K4_v3.png",
+                "shift_x": 0.33200397271704585,
+                "shift_y": -2.4055376610116825,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/PolarBear_K4_v4.png",
+                "shift_x": 0.13836928418090988,
+                "shift_y": 1.9034758982289466,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/PolarBear_K4_v5.png",
+                "shift_x": -1.3409684026473185,
+                "shift_y": -0.9052207408864268,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/PolarBear_K4_v6.png",
+                "shift_x": 2.8603235638352267,
+                "shift_y": -0.983234419641116,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/PolarBear_K4_v7.png",
+                "shift_x": -2.3592227918698523,
+                "shift_y": 2.462821925720341,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/PolarBear_K4_v8.png",
+                "shift_x": -2.276199802446437,
+                "shift_y": -0.9839210496564332,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K4/PolarBear_K4_v9.png",
+                "shift_x": 0.6931862525590486,
+                "shift_y": -1.7559095511136305,
+                "angle": 0,
+                "scale": 4
+            },
+            {
+                "file": "K8/PolarBear_K8_v0.png",
+                "shift_x": 3.548378717206237,
+                "shift_y": 2.2107488813735063,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/PolarBear_K8_v1.png",
+                "shift_x": 0.4479175005527969,
+                "shift_y": 6.484566732383328,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/PolarBear_K8_v2.png",
+                "shift_x": -5.022316912696018,
+                "shift_y": 0.2398576270110233,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/PolarBear_K8_v3.png",
+                "shift_x": 4.296950496142497,
+                "shift_y": 3.5853236208421,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/PolarBear_K8_v4.png",
+                "shift_x": 3.114429693536426,
+                "shift_y": -3.39775845496278,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/PolarBear_K8_v5.png",
+                "shift_x": 6.514393630502514,
+                "shift_y": 4.995443462371224,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/PolarBear_K8_v6.png",
+                "shift_x": -1.2969148776301633,
+                "shift_y": -1.9899412015510638,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/PolarBear_K8_v7.png",
+                "shift_x": 1.6059519813773182,
+                "shift_y": 5.842631513460006,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/PolarBear_K8_v8.png",
+                "shift_x": -6.155107123627402,
+                "shift_y": -1.1854990243817278,
+                "angle": 0,
+                "scale": 8
+            },
+            {
+                "file": "K8/PolarBear_K8_v9.png",
+                "shift_x": -1.842676708789801,
+                "shift_y": -1.9192948975631694,
+                "angle": 0,
+                "scale": 8
             }
         ]
     }
