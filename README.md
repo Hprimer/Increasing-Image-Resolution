@@ -9,6 +9,8 @@
 
   - [filtered_shifted_rotated](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_rotated): Каталог, внутри которого находятся папки К2, К4, К8 (коэффициенты уменшьшения изображений) с изображениями после усредняющего размытия, смещения, поворота и уменьшения разрешения в k раз.
 
-  - [filtered_shifted_rotated_scaled](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_rotated_scaled): Каталог, внутри которого находятся папки К2, К4, К8 (коэффициенты уменшьшения изображений) с изображениями после усредняющего размытия, смещения, поворота, уменьшения масштаба, а затем окончательного уменьшения разрешения в k раз.
+  - [filtered_shifted_rotated_scaled](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_rotated_scaled): Каталог, внутри которого находятся папки К2, К4, К8 (коэффициенты уменшьшения изображений) с изображениями после усредняющего размытия, смещения, поворота и изменения масштаба в (alpha/k) раз (alpha = случайное число из [0.9;1.1]).
 
-**метаданные к изображениям находятся в каждой папке с алгоритмом (filtered_shifted, filtered_shifted_rotated, filtered_shifted_rotated_scaled) в файле meta_info.json**
+  - [filtered_shifted_scaled](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_scaled): Каталог, внутри которого находятся папки К2, К4, К8 (коэффициенты уменшьшения изображений) с изображениями после усредняющего размытия, смещения и изменения масштаба в (alpha/k) раз (alpha = случайное число из [0.9;1.1]).
+
+**метаданные к изображениям находятся в каждой папке с алгоритмом (filtered_shifted, filtered_shifted_rotated, filtered_shifted_rotated_scaled, filtered_shifted_scaled) в файле meta_info.json**
