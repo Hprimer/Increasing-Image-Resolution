@@ -1,0 +1,5 @@
+original_size: (981, 736)
+shift_x: 0.2735
+shift_y: -0.9251
+angle: 0
+scale: 0.5319100540633411
