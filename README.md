@@ -1,9 +1,11 @@
 ### Структура Репозитория
 - [degrade_image.ipynb](https://github.com/Hprimer/Increasing-Image-Resolution/blob/main/degrade_image.ipynb): Этот ноутбук содержит все методы, используемые для обработки изображений.
 
-- [content](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content): Каталог, в котором хранятся все изображения.
+- [DataSets](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/DataSets): Каталог, c датасетами из открытого доступа (Urban100, Set5, Set14).
 
-  - [DIV2K](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/DIV2K): Исходные изображения.
+- [content](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content): Каталог, в котором хранятся все изображения моего датасета.
+
+  - [Nail'sDataSet](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/DIV2K): Исходные изображения.
 
   - [filtered_shifted](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted): Каталог, внутри которого находятся папки К2, К4, К8 (коэффициенты уменшьшения изображений) с изображениями после усредняющего размытия, смещения и уменьшения разрешения в k раз.
 
