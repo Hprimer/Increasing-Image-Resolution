@@ -17,4 +17,10 @@
 
 **метаданные к изображениям находятся в каждой папке с алгоритмом (filtered_shifted_scaled, filtered_shifted_rotated_scaled, filtered_shifted_rotated_randomScaled, filtered_shifted_randomScaled) в файле meta_info.json**
 
-#### Также в репозитории находятся некоторые БД:
+#### Также в репозитории находятся некоторые Датасеты:
+- [Urban100](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/DataSets/Urban%20100)
+- [Set14](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/DataSets/Set14)
+- [Set5](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/DataSets/Set5)
+- DIV2K можно скачать на [сайте](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
+- Flickr2k можно скачать на [сайте](https://www.kaggle.com/datasets/hliang001/flickr2k)
+- BSD100 можно скачать на [сайте](https://www.kaggle.com/datasets/tulips99/bsd100/data)
