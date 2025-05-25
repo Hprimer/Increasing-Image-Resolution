@@ -1,5 +1,0 @@
-original_size: (720, 480)
-shift_x: 0.1599
-shift_y: 0.1709
-angle: 4.340870796118377
-scale: 2
