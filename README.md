@@ -7,12 +7,20 @@
 
   - [Nail'sDataSet](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/DIV2K): Исходные изображения.
 
-  - [filtered_shifted](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted): Каталог, внутри которого находятся папки К2, К4, К8 (коэффициенты уменшьшения изображений) с изображениями после усредняющего размытия, смещения и уменьшения разрешения в k раз.
+  - [filtered_shifted_scaled](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_scaled): Каталог, внутри которого находятся папки К2, К4, К8 (коэффициенты уменшьшения изображений) с изображениями после усредняющего размытия, смещения и уменьшения разрешения в k раз.
 
-  - [filtered_shifted_rotated](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_rotated): Каталог, внутри которого находятся папки К2, К4, К8 (коэффициенты уменшьшения изображений) с изображениями после усредняющего размытия, смещения, поворота и уменьшения разрешения в k раз.
+  - [filtered_shifted_rotated_scaled](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_rotated_scaled): Каталог, внутри которого находятся папки К2, К4, К8 (коэффициенты уменшьшения изображений) с изображениями после усредняющего размытия, смещения, поворота и уменьшения разрешения в k раз.
 
-  - [filtered_shifted_rotated_scaled](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_rotated_scaled): Каталог, внутри которого находятся папки К2, К4, К8 (коэффициенты уменшьшения изображений) с изображениями после усредняющего размытия, смещения, поворота и изменения масштаба в (alpha/k) раз (alpha = случайное число из [0.9;1.1]).
+  - [filtered_shifted_rotated_randomScaled](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_rotated_randomScaled): Каталог, внутри которого находятся папки К2, К4, К8 (коэффициенты уменшьшения изображений) с изображениями после усредняющего размытия, смещения, поворота и изменения масштаба в (alpha/k) раз (alpha = случайное число из [0.9;1.1]).
 
-  - [filtered_shifted_scaled](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_scaled): Каталог, внутри которого находятся папки К2, К4, К8 (коэффициенты уменшьшения изображений) с изображениями после усредняющего размытия, смещения и изменения масштаба в (alpha/k) раз (alpha = случайное число из [0.9;1.1]).
+  - [filtered_shifted_randomScaled](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/content/filtered_shifted_randomScaled): Каталог, внутри которого находятся папки К2, К4, К8 (коэффициенты уменшьшения изображений) с изображениями после усредняющего размытия, смещения и изменения масштаба в (alpha/k) раз (alpha = случайное число из [0.9;1.1]).
 
-**метаданные к изображениям находятся в каждой папке с алгоритмом (filtered_shifted, filtered_shifted_rotated, filtered_shifted_rotated_scaled, filtered_shifted_scaled) в файле meta_info.json**
+**метаданные к изображениям находятся в каждой папке с алгоритмом (filtered_shifted_scaled, filtered_shifted_rotated_scaled, filtered_shifted_rotated_randomScaled, filtered_shifted_randomScaled) в файле meta_info.json**
+
+#### Также в репозитории находятся некоторые Датасеты:
+- [Urban100](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/DataSets/Urban%20100)
+- [Set14](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/DataSets/Set14)
+- [Set5](https://github.com/Hprimer/Increasing-Image-Resolution/tree/main/DataSets/Set5)
+- DIV2K можно скачать на [сайте](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
+- Flickr2k можно скачать на [сайте](https://www.kaggle.com/datasets/hliang001/flickr2k)
+- BSD100 можно скачать на [сайте](https://www.kaggle.com/datasets/tulips99/bsd100/data)
